@@ -7,5 +7,9 @@ a {
 }
 
 body {
-	background: blue;
+	background-color: white;
+	background-image: url("/images/aesthetic.png");
+	background-repeat: repeat;
+	background-position: right top;
+	background-attachment: fixed;
 }
